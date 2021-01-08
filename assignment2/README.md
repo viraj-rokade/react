@@ -6,3 +6,8 @@
 4. Create another component (=> CharComponent) and style it as an inline box (=> display: inline-block, padding: 16px, text-align: center, margin: 16px, border: 1px solid black).
 5. Render a list of CharComponents where each CharComponent receives a different letter of the entered text (in the initial input field) as a prop.
 6. When you click a CharComponent, it should be removed from the entered text.
+
+# To Run This Project
+1. Download all files in 1 folder
+2. run -> npm install
+3. run -> npm start
