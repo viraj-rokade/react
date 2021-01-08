@@ -9,5 +9,5 @@
 
 # To Run This Project
 1. Download all files in 1 folder
-2. run -> npm install
-3. run -> npm start
+2. run -> `npm install`
+3. run -> `npm start`
